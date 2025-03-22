@@ -1,4 +1,4 @@
-# Laboratory problems in UNIX - Redicrecting, filtering, regular expressions and script basics
+# Laboratory problems in UNIX - Redicrecting, filtering, regular expressions and command procedures/scripts basics
 ## Problem 1
 1. Create a directory with name directory001 and add a file named file123.
 2. Write a command to read the manual for the command cat.
