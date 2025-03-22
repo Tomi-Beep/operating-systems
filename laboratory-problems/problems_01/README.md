@@ -18,6 +18,7 @@
 7. Show on the screen the data for the students that have enrolled the Faculty in 2023.
 8. Show on the screen the names of the students, date and time that have enrolled the Faculty in 2021 and have status submitted.
 9. Count how many students have submitted the results in less than 30 minutes.
+
 Contents of file OS1.txt - https://courses.finki.ukim.mk/pluginfile.php/269875/question/questiontext/714849/2/982581/OS1_B.txt
 Contents of file OS2.txt - https://courses.finki.ukim.mk/pluginfile.php/269875/question/questiontext/714849/2/982581/OS2_B.txt
 
